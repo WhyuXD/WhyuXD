@@ -1,4 +1,4 @@
-[![Github Badge](https://img.shields.io/badge/-WahyuKullBet-black?style=flat&logo=Github&logoColor=blue&link=https://github.com/WahyuKullBet/)](https://github.com/WahyuKullBet)[![WhatsApp Badge](https://img.shields.io/badge/-+6283132458199-black?style=flat&logo=WhatsApp&logoColor=pink&link=https://wa.me/6283132458199/)](https://wa.me/-6283132458199-green/) 
+[![Github Badge](https://img.shields.io/badge/-WahyuKullBet-black?style=flat&logo=Github&logoColor=blue&link=https://github.com/WahyuKullBet/)](https://github.com/WahyuKullBet)  [![WhatsApp Badge](https://img.shields.io/badge/-+6283132458199-black?style=flat&logo=WhatsApp&logoColor=pink&link=https://wa.me/6283132458199/)](https://wa.me/-6283132458199-green/) 
 [![Facebokm Badge](https://img.shields.io/badge/-WaGyoXD-black?style=flat&logo=Facebook&.logoColor=pink&link=https://www.facebook.com/WaGyoXD/)](https://www.facebook.com/WaGyoXD)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
 #***Hello ngab, [WahyuXD]() is here***
@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuKullBet&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuKullBet&layout=compact&theme=monokai&langs_count=12"/><br />
 <!--
-**WahyuKullBet/WahyuKullBet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**W4HYUXD/W4HYUXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
