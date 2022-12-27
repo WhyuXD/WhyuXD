@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/W4HYUXD/SP"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4HYUXD&repo=SP&theme=monokai"></a>
+</p>
+<p align="center">
+  <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=WAHYUXD&theme=monokai&row=1&column=5&no-frame=true'
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Don't+forget+to+also+follow+my+social+media+accounts)](https://git.io/typing-svg)
          ![Facebokm Badge](https://img.shields.io/badge/-MOCHWAHYUDINAMBIAID-black?style=flat&logo=Facebook&logoColor=pnk&link=https://www.facebook.com/Wahyu.XNXCODE/)
           [![Tiktok Badge](https://img.shields.io/badge/-@mochwahyuxd.32-black?style=flat&logo=Tiktok&logoColor=white&link=https://www.tiktok.com/@mochwahyuxd.32/)](https://www.tiktok.com/@mochwahyuxd.32-black/)
