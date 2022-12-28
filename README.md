@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/W4HYUXD/simple-share"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4HYUXD&repo=simple-share&theme=monokai"></a>
 <a href="https://github.com/W4HYUXD/BFB"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=W4HYUXD&repo=BFB&theme=monokai"></a>
 </p>
-<p align="center">
-  <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=WAHYUXD&theme=monokai&row=1&column=5&no-frame=true'
-</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Don't+forget+to+also+follow+my+social+media+accounts)](https://git.io/typing-svg)
          ![Facebokm Badge](https://img.shields.io/badge/-MOCHWAHYUDINAMBIAID-black?style=flat&logo=Facebook&logoColor=pnk&link=https://www.facebook.com/Wahyu.XNXCODE/)
