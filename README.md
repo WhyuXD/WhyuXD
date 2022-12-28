@@ -1,13 +1,12 @@
 <p align="center">
-  <a href="https://github.com/SlavyanDesu"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/Zerotwo"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-W4HYUXD-white?style=flat&logo=Github&logoColor=black&link=https://github.com/W4HYUXD/)](https://github.com/W4HYUXD)  [![WhatsApp Badge](https://img.shields.io/badge/-Press-white?style=flat&logo=WhatsApp&logoColor=green&link=https://wa.me/6283132458199/)](https://wa.me/-6283132458199-green/) 
 [![Facebokm Badge](https://img.shields.io/badge/-WaGyoXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/WaGyoXD/)](https://www.facebook.com/WaGyoXD)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
-#***Hello ngab, [WahyuXD]() is here***
+***Hello ngab, [WahyuXD]() is here***
 ![IMG-20221219-WA0073~2](https://user-images.githubusercontent.com/115902571/208432603-40622335-4f1c-430d-aa68-20951d840276.jpg)
-
 
 ***Language***
 
@@ -15,7 +14,7 @@
 
    <img src="https://github-readme-stats.vercel.app/api?username=W4HYUXD&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=W4HYUXD&theme=monokai"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4HYUXD&layout=compact&theme=monokai&langs_count=12"/><br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W4HYUXD&layout=compact&theme=monokai&langs_count=15"/><br />
 <!--
 **W4HYUXD/W4HYUXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
