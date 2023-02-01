@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Don't+forget+to+also+follow+my+social+media+accounts)](https://git.io/typing-svg)
-         ![Facebokm Badge](https://img.shields.io/badge/-MochWahyuDinAmbiaXD-black?style=flat&logo=Facebook&logoColor=pnk&link=https://www.facebook.com/Whyu.Xyzn/)
+         ![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-black?style=flat&logo=Facebook&logoColor=pnk&link=https://www.facebook.com/Whyu.Xyz.404.notfound/)
           [![Tiktok Badge](https://img.shields.io/badge/-@mochwahyuxd.32-black?style=flat&logo=Tiktok&logoColor=white&link=https://www.tiktok.com/@mochwahyuxd.32/)](https://www.tiktok.com/@mochwahyuxd.32-black/)
-           [![Instagram Badge](https://img.shields.io/badge/-itsmeewagyo__-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsmeewagyoo_/)](https://www.instagram.com/itsmeewagyoo_/)
+           [![Instagram Badge](https://img.shields.io/badge/-WahyuXD-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/whyu.xyz_32/)](https://www.instagram.com/whyu.xyz_32/)
