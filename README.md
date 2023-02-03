@@ -3,7 +3,7 @@
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-WhyuXD-white?style=flat&logo=Github&logoColor=black&link=https://github.com/WhyuXD/)](https://github.com/WhyuXS)  [![WhatsApp Badge](https://img.shields.io/badge/-Press-white?style=flat&logo=WhatsApp&logoColor=green&link=https://wa.me/6283132458199/)](https://wa.me/-6283132458199-green/) 
-[![Facebokm Badge](https://img.shields.io/badge/-WaGyoXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/WaGyoXD/)](https://www.facebook.com/WaGyoXD)
+[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/Whyu.Xyz.404.notfound/)](https://www.facebook.com/Whyu.Xyz.404.notfound)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
 ***Hello ngab, [WahyuXD]() is here***
 ![IMG-20221219-WA0073~2](https://user-images.githubusercontent.com/115902571/208432603-40622335-4f1c-430d-aa68-20951d840276.jpg)
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Don't+forget+to+also+follow+my+social+media+accounts)](https://git.io/typing-svg)
-         ![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-black?style=flat&logo=Facebook&logoColor=pnk&link=https://www.facebook.com/Whyu.Xyz.404.notfound/)
+         ![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-black?style=flat&logo=Facebook&logoColor=pnk&link=https://www.facebook.com/Wahyu.Xyzn/)
           [![Tiktok Badge](https://img.shields.io/badge/-@mochwahyuxd.32-black?style=flat&logo=Tiktok&logoColor=white&link=https://www.tiktok.com/@mochwahyuxd.32/)](https://www.tiktok.com/@mochwahyuxd.32-black/)
            [![Instagram Badge](https://img.shields.io/badge/-WahyuXD-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/whyu.xyz_32/)](https://www.instagram.com/whyu.xyz_32/)
